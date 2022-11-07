@@ -15,7 +15,7 @@ We have found that the error is minimized when the amplitude and sign of the coe
 # Installation :
         git clone https://github.com/sumantaphy/ANN-CI.git
 
-#How to run this code ?
+# How to run this code ?
 Modify input arguments in "input.in" file.
 python amplitude_signANN.py input.in &
 
