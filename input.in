@@ -1,0 +1,12 @@
+***startSetup***
+test_fraction,0.8
+inp_dim,18
+node_amplitude,20
+node_sign,10
+learn_rate,0.001
+batch_size,500
+num_epochs_amplitude,500
+num_epochs_sign,400
+csv_column,0,17,21,19,22
+input_file,input_train_18sites.csv
+***endSetup***
