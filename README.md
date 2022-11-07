@@ -46,5 +46,5 @@ python amplitude_signANN.py input.in &
 
 The "model.pth" file is the converged ANN model. One can use this file for future purposes. "output_Amplitude_test.out" file contains the actual and predicted amplitude value in the second and third column, respectively. Similarly, "output_sign_test.out" file contains the actual and predicted amplitude value in the second and third column, respectively.
 # Mean Squared Error (MSE):
-To calculate the MSE for training and testing, please run the following,
+To calculate the MSE for training and testing, please run,
 **python error_cal.py**
